@@ -30,13 +30,13 @@ The **Roman Numeral Converter** is a simple web application that converts number
 
 ## Screenshots
 
-![Screenshot of Roman Numeral Converter](screenshot.png)
+![Screenshot of Roman Numeral Converter](https://github.com/user-attachments/assets/2a18258f-b35b-4728-8116-cf228ba39155)
 
-*Note: Replace `screenshot.png` with an actual screenshot of your application.*
+
 
 ## Live Demo
 
-Check out the live demo of the Roman Numeral Converter [here](#).
+Check out the live demo of the Roman Numeral Converter [here](https://jourdansnumeralconverter.netlify.app/).
 
 *Note: Replace `#` with the actual URL if you deploy this project online.*
 
@@ -50,7 +50,5 @@ If you have any questions or suggestions, feel free to reach out to me at [hende
 
 ---
 
-This project is part of my portfolio. If you found it interesting, please check out my [portfolio](#) for more projects.
-
-*Note: Replace `#` with the actual URL of your portfolio.*
+*
 
